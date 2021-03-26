@@ -1,0 +1,4 @@
+# Project exclude paths
+/AppData/Roaming/discord/0.0.309/modules/discord_spellcheck/node_modules/
+/AppData/Roaming/discord/0.0.309/modules/discord_utils/node_modules/
+/AppData/Roaming/discord/0.0.309/modules/discord_voice/node_modules/
